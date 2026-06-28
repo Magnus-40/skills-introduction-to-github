@@ -1,0 +1,22 @@
+{
+  "name": "skills-introduction-to-github",
+  "version": "1.0.0",
+  "description": "_Get started using GitHub in less than an hour._",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magnus-40/skills-introduction-to-github.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Magnus-40/skills-introduction-to-github/issues"
+  },
+  "homepage": "https://github.com/Magnus-40/skills-introduction-to-github#readme"
+}
